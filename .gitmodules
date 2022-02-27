@@ -1,0 +1,4 @@
+[submodule "dagvblog/public"]
+	path = dagvblog/public
+	url = https://github.com/urWired/urwired.github.io.git
+	branch = main
